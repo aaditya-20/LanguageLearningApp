@@ -31,7 +31,7 @@ This is an interactive language learning application with exercises, quizzes, an
 4.Start the server
 
     ```
-    npm nodemon
+     nodemon index.js
     
 5.In another terminal, start the Vite dev server
 
