@@ -14,7 +14,7 @@ This is an interactive language learning application with exercises, quizzes, an
 1. Clone the repository
 
    ```sh
-   git clone 
+   git clone https://github.com/aaditya-20/LanguageLearningApp.git 
     
     
 2.Install dependencies
